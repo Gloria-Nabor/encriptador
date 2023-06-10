@@ -63,7 +63,7 @@ gaitober" => "gato"
 
 -El resultado debe ser mostrado en la pantalla.
 
---Modelo Figma. Puede utilizar a plantilla propuesta y replicar exactamente el mismo diseño, dado que muchas personas están empezando de cero. O bien podrá modificarla, acorde a creatividad, conocimientos y lo aprendido en la formación Principiante en Programación.
+-Modelo Figma. Puede utilizar a plantilla propuesta y replicar exactamente el mismo diseño, dado que muchas personas están empezando de cero. O bien podrá modificarla, acorde a creatividad, conocimientos y lo aprendido en la formación Principiante en Programación.
 
 ## Extras:
 
