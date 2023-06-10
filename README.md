@@ -63,17 +63,21 @@ gaitober" => "gato"
 
 -El resultado debe ser mostrado en la pantalla.
 
+--Modelo Figma. Puede utilizar a plantilla propuesta y replicar exactamente el mismo diseño, dado que muchas personas están empezando de cero. O bien podrá modificarla, acorde a creatividad, conocimientos y lo aprendido en la formación Principiante en Programación.
+
 ## Extras:
 
 -Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, es decir tener la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
 -Para este desafío, puedes usar HTML y Javascript sin usar frameworks. 
 
+-Un rodapie con los datos del desarrollador.
+
 -Desencripta nuestro mensaje secreto!
 
 **fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!**
 
----
+-Para estilizar use CSS(Cambiar colores, fuentes, modelo, adicionar bordes, hacer animaciones,etc).
 
 ### Sprint 01: Construyendo un encriptador de texto con Javascript
  
