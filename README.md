@@ -56,6 +56,7 @@ La letra "u" es convertida para "ufat"
 -De ser posible convertir una palabra a la versión encriptada y devolver la palabra encriptada a su versión original.
 
 **Por ejemplo:**
+
 "gato" => "gaitober"
 
 gaitober" => "gato"
