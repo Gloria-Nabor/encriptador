@@ -37,7 +37,7 @@ Tomamos como base los Challenge Based Learning o sea, aprendizaje basado en desa
 
 **¡Bienvenidas y bienvenidos (o) al proyecto Encriptador de texto!**
 
-Durante este challenge vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+Durante este challenge se realizó una aplicación web que cifra textos, brindando al usuario la posibilidad de intercambiar mensajes secretos con otras personas que conozcan la llave de encriptación utilizada.
 
 Las "llaves" de encriptación son las siguientes:
 
@@ -49,23 +49,23 @@ La letra "u" es convertida para "ufat"
 
 ## Requisitos:
 
--Debe funcionar solo con letras minúsculas
+-Debe funcionar solo con letras minúsculas.
 
--No deben ser utilizados letras con acentos ni caracteres especiales
+-No permitir utilizar letras con acentos ni caracteres especiales.
 
--Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+-De ser posible convertir una palabra a la versión encriptada y devolver la palabra encriptada a su versión original.
 
 **Por ejemplo:**
 "gato" => "gaitober"
 gaitober" => "gato"
 
--La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
+-La página debe tener campos para capturar el texto que será encriptado o desencriptado, y el usuario podrá escoger entre las dos opciones.
 
 -El resultado debe ser mostrado en la pantalla.
 
 ## Extras:
 
--Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+-Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, es decir tener la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
 -Para este desafío, puedes usar HTML y Javascript sin usar frameworks. 
 
