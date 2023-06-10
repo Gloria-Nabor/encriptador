@@ -57,6 +57,7 @@ La letra "u" es convertida para "ufat"
 
 **Por ejemplo:**
 "gato" => "gaitober"
+
 gaitober" => "gato"
 
 -La página debe tener campos para capturar el texto que será encriptado o desencriptado, y el usuario podrá escoger entre las dos opciones.
