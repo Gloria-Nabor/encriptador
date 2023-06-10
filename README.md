@@ -118,7 +118,12 @@ Utiliza el tema/topic:
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
 
-     
+--- 
+
+### Implementación:
+
+El aplicativo tiene un campo principal para capturar el mensaje, al presionar el botón encriptar o desencriptar muestra el texto cifrado o decodificado en el cuadro lateral.
+  
      
 --- 
 
